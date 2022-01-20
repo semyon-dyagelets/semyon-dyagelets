@@ -35,7 +35,7 @@ frontend-developer from Russia
   <h2 align="center">🎓 Education </h2>
   <p align="center">
     <br>👨‍💻 Web-Developer
-    <br>📆 Sep 2020 - June 2021
+    <br>📆 Sep 2020 — June 2021
     <br>🏫 Yandex Praktikum
   </p>
 </details>
