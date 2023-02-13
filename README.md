@@ -38,8 +38,12 @@ frontend-developer from Russia
     <br>📆 Sep 2020 — June 2021
     <br>🏫 Yandex Praktikum
   </p>
+  <p align="center">
+    <br>👨‍💻 React-Developer
+    <br>📆 Nov 2022 — Feb 2023
+    <br>🏫 Yandex Praktikum
+  </p>
 </details>
-
 
 <p align="center">
 <br>reach me</br>
